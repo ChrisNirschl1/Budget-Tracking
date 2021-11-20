@@ -1,10 +1,13 @@
 # Budget-Tracking
 Link to deployed app: https://budgetappy.herokuapp.com/
 
-Pictures of the app:
-![image](https://user-images.githubusercontent.com/89895612/142702847-98bbf036-45ce-4cad-985b-3fddbecde925.png)
 
-![image](https://user-images.githubusercontent.com/89895612/142702919-bc65fbd5-3b28-46ce-95b1-4f78b8af8235.png)
+![image](https://user-images.githubusercontent.com/89895612/142709077-ed008bed-4d17-4a72-bca9-b8d20b9058d9.png)
+
+![image](https://user-images.githubusercontent.com/89895612/142709113-e919becf-f3bc-48d0-8361-06f60f225271.png)
+
+
+![image](https://user-images.githubusercontent.com/89895612/142709138-5b2b68e3-88c5-4e19-a7ff-b993bab7a6a2.png)
 
 
  ## Description
